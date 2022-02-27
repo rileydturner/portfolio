@@ -1,0 +1,35 @@
+.navbar-brand
+{
+  font-size: 40px;
+}
+.navbar-nav
+{
+    font-size: 25px;
+    margin: 5px;
+}
+.nav-item
+{
+    margin: 8px;
+}
+.img-size-portfolio
+{
+    width: 326px;
+    height: 326px;
+}
+.p 
+{
+    font-size: 20px;
+}
+.h4
+{
+    font-size: 26px;
+}
+.h3
+{
+    font-size: 22px;
+    font-weight: 350;
+}
+.display-3
+{
+    font-weight: 450;
+}
